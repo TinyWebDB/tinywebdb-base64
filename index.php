@@ -22,8 +22,8 @@ WP REST API provides OAuth 1.0a and Basic Auth algorithm. Currently it is no way
 Because App Inventor don't have function for base64 encode, so I create a tinywebdb-base64 program, which use App Inventor Tinywebdb feature to get value = base64_encode (tag). 
 App Inventor apps can access this service using the TinyWebDB component and setting the ServiceURL to the URL of this site.<p> 
 The service returns a value = base64_encode (tag). 
-You can explore how this API works by entering a tag and clicking Get value :</p>
-
+You can explore how this API works by entering a tag and clicking Get value.</p>
+<p><a href="https://github.com/edu2web/tinywebdb-base64">read more...</a></p>
 </td> </tr> 
 </table>
 
